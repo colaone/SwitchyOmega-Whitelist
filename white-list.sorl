@@ -234,8 +234,6 @@
 *.zhihu.com
 *.zhimg.com
 *.zhongguose.com
-
-; 阿里云 CDN
 *.alikunlun.net
 *.alikunlun.com
 *.alicdn.com
@@ -260,15 +258,11 @@
 *.kunlunsc.com
 *.kunlunsa.com
 *.kunlunca.com
-
-; 腾讯 CDN
 *.cdntip.com
 *.gtimg.com
 *.myqcloud.com
 *.qcloud.com
 *.tcdn.qq.com
-
-; 百度云 CDN
 *.bdydns.net
 *.bcedns.net
 *.bcedns.com
@@ -278,36 +272,35 @@
 *.baiduyundns.net
 *.baiduyundns.com
 *.baidupcs.com
-
-; 百度云加速
 *.yunjiasu-cdn.net
-
-; 七牛
 *.clouddn.com
 *.qbox.me
 *.qiniudn.com
 *.qiniudns.com
 *.qiniuts.com
 *.qiniup.com
-
-; 又拍云
 *.aicdn.com
-
-; Apple
 *.mzstatic.com
-
 ; 360
 *.qhimg.com
-
 ; youku
 *.ykimg.com
-
 ; bilibili
 *.acgvideo.com
 *.xycdn.com
-
-; gitee 码云
 *.gitee.com
-
 *.ihint.me
 *.17ce.com
+*.qianfanyun.com
+*.zhutix.com
+*.chongbuluo.com
+*.jeecms.com
+*.cnadc.com.cn
+*.molizm.com
+*.jb51.net
+*.dayanzai.me
+*.xitongcheng.com
+*.win4000.com
+*.mpyit.com
+*.xitongzhijia.net
+*.foxmail.com
