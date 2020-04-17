@@ -1,5 +1,5 @@
 # SwitchOmegay-Whitelist
-中国网站白名单，纯列表，用于 SwitchyOmega 的白名单，持续更新。
+中国网站白名单，纯列表，用于 SwitchyOmega 的白名单，随缘更新。
 
 ## 使用步骤
 * 将本地的 Shadowsocks/V2Ray 客户端设置为手动模式
